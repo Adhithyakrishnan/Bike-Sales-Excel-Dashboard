@@ -6,7 +6,7 @@ Excel Dashboard
 This project showcases an **interactive Excel Dashboard** designed to analyze and visualize **bike sales performance**.  
 It helps users track **customer demographics, sales trends, and purchase patterns**, enabling data-driven business decisions.
 
-![Dashboard Preview]<img width="1440" height="883" alt="image" src="https://github.com/user-attachments/assets/5580adf9-b11d-4210-9625-f3a265b95508" />
+Dashboard Preview<img width="1440" height="883" alt="image" src="https://github.com/user-attachments/assets/5580adf9-b11d-4210-9625-f3a265b95508" />
 
 
 ---
